@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Database and secrets
+*.db
+*.sqlite3
+.env
+
+# Test output
+playwright-report/
+test-results/
+coverage/
+allure-results/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
